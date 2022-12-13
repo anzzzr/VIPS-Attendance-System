@@ -1,8 +1,5 @@
 # Integral Attendance System
 An Android app which uses Realm database to make attendance process simple inside classroom
-### Quick view code
-
-> **_*_** [Click here](https://github.com/jaikeerthick/Easy-Attendance-App/tree/main/app/src/main/java/com/ajstudios/easyattendance)- to directly navigate to the directory containing java files
 
 ### Introduction
 
